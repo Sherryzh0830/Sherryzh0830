@@ -7,7 +7,7 @@
 ###
 
 <p align="left">✨ I'm based in Toronto, Canada<br>📚 Currently studying Industrial Engineering at UofT with a focus in Data Science and Machine Learning<br>🎯 Have experience working on projects involving full-stack software development, WebApps, blockchain development, deep learning neural networks, and business analysis & user operation project management.<br>🎲 Fun fact: I grew up in three countries :)</p>
-g
+
 ###
 
 <h2 align="left">I code with</h2>
